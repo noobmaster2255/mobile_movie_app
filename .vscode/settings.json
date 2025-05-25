@@ -4,5 +4,7 @@
     "source.organizeImports": "explicit",
     "source.sortMembers": "explicit"
   },
-  "css.validate": false
+  "css.validate": false,
+  "html.format.wrapLineLength": 120,
+  "editor.wordWrap": "on"
 }
